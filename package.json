@@ -2,7 +2,7 @@
   "name": "node-webrtc-server",
   "version": "0.0.1",
   "description": "WebRTC",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
